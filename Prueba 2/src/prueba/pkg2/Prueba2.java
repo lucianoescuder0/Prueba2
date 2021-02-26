@@ -18,9 +18,7 @@ public class Prueba2 {
         // TODO code application logic here
         Scanner stdIn = new Scanner(System.in);
         String respuesta="";
-        System.out.println("Que dia es hoy");
-        respuesta = stdIn.nextLine();
-        System.out.println("El dia de hoy es:"+respuesta);
+        System.out.println("Hola mundo");
     }
     
 }
